@@ -1,2 +1,7 @@
-# autobots
-Repositório destinado às atividades da matéria de Desenvolvimento Web III, ministrada pelo professor Gerson Penha.
+# AutoBots ✨
+
+> Maria Clara Alves de Faria 
+>
+> Taís Gomes Salomão 
+>
+> Desenvolvimento Web III - 3°SEM/DSM
